@@ -2,5 +2,12 @@ language: php
 php:
   - '5.6'
   - '7.1'
+  - '7.2'
   - hhvm # on Trusty only
   - nightly
+matrix:
+  fast_finish: true
+  allow_failures:
+    - php: hhvm
+
+  
