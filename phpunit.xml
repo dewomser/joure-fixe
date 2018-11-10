@@ -27,7 +27,7 @@
          verbose="false">
   <testsuites>
   <testsuite name="My Test Suite">
-    <directory>/home/womser/joure-fixe/blob/master/lol98ectory>
+    <directory>/home/womser/joure-fixe/blob/master/>
     <file>/home/womser/joure-fixe/blob/master/jourfixe.php</file>
   </testsuite>
 </testsuites>
