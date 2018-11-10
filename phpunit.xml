@@ -25,5 +25,12 @@
          timeoutForMediumTests="10"
          timeoutForLargeTests="60"
          verbose="false">
-  <!-- ... -->
+  <testsuites>
+  <testsuite name="My Test Suite">
+    <directory>/home/womser/joure-fixe/blob/master/lol98ectory>
+    <file>/home/womser/joure-fixe/blob/master/jourfixe.php</file>
+  </testsuite>
+</testsuites>
+
+
 </phpunit>
