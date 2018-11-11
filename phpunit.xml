@@ -5,7 +5,7 @@
          verbose="true">
   <testsuites>
   <testsuite name="My Test Suite">
-    <directory>/home/dewomser/joure-fixe/master/>
+    <directory>/home/dewomser/joure-fixe/master</directory>
     <file>/home/dewomser/joure-fixe/master/jourfixe.php</file>
   </testsuite>
 </testsuites>
