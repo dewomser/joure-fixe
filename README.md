@@ -1,4 +1,4 @@
-# Jour-fixe
+# Jour-fixe [![Build Status](https://travis-ci.org/dewomser/joure-fixe.svg?branch=master)](https://travis-ci.org/dewomser/joure-fixe)
 Regelmäßige Treffen z.B. Ausgabe des Datums 2. Donnerstag im Monats.
 Ein PHP-Script.
 Ist der Termin bereits vorbei wird der entsprechende Termin des Folgemonats angezeigt.
