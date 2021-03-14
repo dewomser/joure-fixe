@@ -24,7 +24,7 @@ return mktime(0,0,0,$month, $first_day, $year);
 
 
 // These variables  are to configure
-tag=4;
+$tag=4;
 //day  of the week
 $tagname="Donnerstag";
 //day
