@@ -48,7 +48,7 @@ jobs:
           VALIDATE_ALL_CODEBASE: false
           VALIDATE_ANSIBLE: false
           VALIDATE_BASH: false
-          VALIDATE_PHP_BUILTIN: false
+          VALIDATE_PHP_BUILTIN: true
           VALIDATE_PHP: true
           
           
